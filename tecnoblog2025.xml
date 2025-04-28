@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>TecnoBlog 2025</title>
+    <link />
+    <description>Noticias y tendencias tecnológicas del futuro.</description>
+    <atom:link href="https://tecnoblog.net" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 28 Apr 2025 08:11:24 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Apr 2025 08:20:09 GMT</lastBuildDate>
+    <generator>Absolute RSS Editor</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Realidad Virtual: Lo nuevo de Oculus</title>
+      <link>https://tecnoblog.com/realidad-virtual-oculus</link>
+      <description>Oculus presenta sus novedades en realidad virtual.</description>
+      <guid isPermaLink="false">0F0490A3-344F-4406-8ED7-852E606EDFE2</guid>
+      <pubDate>Mon, 28 Apr 2025 08:17:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>La evolución de los ordenadores portátiles</title>
+      <link>https://tecnoblog.com/portatiles-2025</link>
+      <description>Cómo han cambiado los portátiles en los últimos años.</description>
+      <guid isPermaLink="false">06D89078-F901-48BA-8868-B9B35944ACEF</guid>
+      <pubDate>Mon, 28 Apr 2025 08:17:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Top 10 Gadgets para el Hogar Inteligente</title>
+      <link>https://tecnoblog.com/gadgets-hogar-2025</link>
+      <description>Los mejores dispositivos para modernizar tu hogar.</description>
+      <guid isPermaLink="false">A631ABF2-F83A-46CD-8BB1-EB94A39F859E</guid>
+      <pubDate>Mon, 28 Apr 2025 08:17:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tendencias en Inteligencia Artificial 2025</title>
+      <link>https://tecnoblog.com/ia-2025</link>
+      <description>Qué innovaciones traerá la IA en el próximo año.</description>
+      <guid isPermaLink="false">3A51B952-3B15-4C67-8467-65E6CA709D9B</guid>
+      <pubDate>Mon, 28 Apr 2025 08:16:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Artículo 1: Los smartphones más esperados de 2025</title>
+      <link>https://tecnoblog.com/smartphones-2025</link>
+      <description>Un repaso a los móviles que marcarán tendencia este año.</description>
+      <guid isPermaLink="false">29DFC553-2232-47AC-83D8-68266744527C</guid>
+      <pubDate>Mon, 28 Apr 2025 08:14:43 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
